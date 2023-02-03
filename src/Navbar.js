@@ -36,7 +36,7 @@ const Navbar = () => {
               </li>
 
               <li className="nav-item active">
-                <a href="#" className="nav-link">
+                <a href="/" className="nav-link">
                   Events
                 </a>
               </li>
@@ -52,7 +52,7 @@ const Navbar = () => {
               </li>
 
               <li className="nav-item active">
-                <a href="#" className="nav-link">
+                <a href="/" className="nav-link">
                   Register Here
                 </a>
               </li>

@@ -7,8 +7,8 @@ import {
   faTwitter,
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
-import { Container } from "react-bootstrap";
-import { faPhoneVolume } from "@fortawesome/free-solid-svg-icons";
+// import { Container } from "react-bootstrap";
+// import { faPhoneVolume } from "@fortawesome/free-solid-svg-icons";
 
 const Footer = () => {
   return (
@@ -58,9 +58,9 @@ const Footer = () => {
             </p>
           </div>
           <div className="team">
-            <a href="">Core Team</a>
-            <a href="">Tech Team</a>
-            <a href="">Design Team</a>
+            <a href="/">Core Team</a>
+            <a href="/">Tech Team</a>
+            <a href="/">Design Team</a>
           </div>
         </div>
       </div>
