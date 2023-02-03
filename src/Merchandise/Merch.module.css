@@ -1,0 +1,32 @@
+.merch{
+    width: 100vw;
+    color: white;
+    background-color: #010527;
+    height: 100vh;
+}
+.items{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80vw;
+    height: 50vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.item img{
+    width: 12rem;
+    height: 8rem;
+}
+@media only screen and (max-width: 850px){
+    .item img{
+        width: 5rem;
+        height: 8rem;
+    }
+}
