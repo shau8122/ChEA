@@ -13,7 +13,7 @@ const About = () => {
           </div>
           <div className="contain">
             <h3>Indian Institute of Technology Kharagpur</h3>
-            <a href="#">Read More</a>
+            <a href="/">Read More</a>
             <p>
             Indian Institute of Technology Kharagpur (IIT Kharagpur) is a public technical university established by the government of India in Kharagpur, West Bengal, India. Established in 1951, the institute is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence by the government of India.
             </p>
@@ -22,12 +22,12 @@ const About = () => {
 
         <div className="card">
         <div className="img-logo">
-            <img src={logoiiche} alt="" />
+            <img src={logoiiche} alt="logo" />
           </div>
           <div className="contain">
             {/* <h2>02</h2> */}
             <h3>Indian Institute of Chemical Engineers</h3>
-            <a href="#">Read More</a>
+            <a href="/">Read More</a>
             <p>
             The Indian Institute of Chemical Engineers (IIChE) is the professional body for chemical engineers in India. The headquarter of IIChE is in the campus of Jadavpur University, Kolkata. The organization has 42 regional centers along with 172 student chapters spread throughout India.[1] The institution's membership comprises academics, professionals from the chemical industry, researchers, and students.
             </p>
@@ -40,7 +40,7 @@ const About = () => {
           </div>
           <div className="contain text-center">
             <h3>Chemical Engineering Association, IIT Kharagpur</h3>
-            <a href="#">Read More</a>
+            <a href="/">Read More</a>
             <p>
             Chemical Engineering Association, IIT Kharagpur( also known as ChEA-IITKGP) is the Official Student Body of the Department of Chemical Engineering, IIT Kharagpur. At present, the department is deeply involved in activities in the field of Pollution Control, Transport Processes, Coal and Petroleum Technology, and Membrane Processes.
             </p>

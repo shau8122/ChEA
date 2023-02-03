@@ -19,7 +19,7 @@ const Home = () => {
               <h2 className="line"> XX Feb 2023-XX Feb 2023</h2>
             </div>
             <div className="mt-3 text-center">
-              <a href="" className="btn get-started">
+              <a href="/" className="btn get-started">
                 Register Here
               </a>
             </div>

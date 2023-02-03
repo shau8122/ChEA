@@ -32,7 +32,7 @@ const Item = (props) => {
                     </Carousel.Caption> */}
                 </Carousel.Item>
             </Carousel>
-            <a href='#'>
+            <a href='/'>
                 <button>
                     Soon
                 </button>
