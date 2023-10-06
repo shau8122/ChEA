@@ -1,6 +1,10 @@
 import React from "react";
 import Navbar from "./Navbar";
 import Fugacity from "./logos/Fugacity.png";
+import Footer from "./Footer";
+import About from "./About";
+import './style.css';
+import './phone.css';
 
 const Home = () => {
   return (
@@ -34,6 +38,8 @@ const Home = () => {
                 </div>
         </div>
       </section>
+      <About/>
+      <Footer/>
     </div>
   );
 };
